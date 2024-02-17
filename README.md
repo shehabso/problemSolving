@@ -12,17 +12,17 @@ https://leetcode.com/shehab162519/
 |Array II 10 questions                    |                3                     |                   
 |Array IV 4 questions                     |                6                     |                    
 |LinkedList 10 questions                  |                2                     |                    
-|Stack 16 questions                       |                3                     |                    
+|Stack 16 questions                       |                5                     |                    
 |Queue and Dequeue 10 questions           |                1                     |
 ## week 3,4     total=45
 |               target                    |                 done                 |
 |-----------------------------------------|--------------------------------------|
 |Recursion 5 questions                    |                6                     |                    
-|Binary Tree 5 questions                  |                                      |                    
-|Heap Tree 5 questions                    |                                      |                    
-|Hash Table 10 questions                  |                                      |                    
-|Advanced Topices I 10 questions          |                                      |                    
-|Advanced Topices  II 10 questions        |                                      | 
+|Binary Tree 5 questions                  |                1                     |                    
+|Heap Tree 5 questions                    |                0                     |                    
+|Hash Table 10 questions                  |                6                     |                    
+|Advanced Topices I 10 questions          |                0                     |                    
+|Advanced Topices  II 10 questions        |                1                     | 
 ## week 5,6     total=50
 |               target                    |                 done                 |
 |-----------------------------------------|--------------------------------------|                
@@ -40,7 +40,7 @@ https://leetcode.com/shehab162519/
 |               target                    |                 done                 |
 |-----------------------------------------|--------------------------------------|                
 |interview 30 question I                  |                                      |                 
-|interview 30 question II                 |                                      | 
+|interview 30 question II                 |                  1                   | 
 ## week 11,12 total=50
 |               target                    |                 done                 |
 |-----------------------------------------|--------------------------------------|
