@@ -3,9 +3,10 @@
  leetcode problems :
 https://github.com/cs-MohamedAyman/Problem-Solving-Training
 
-![alt text](image-1-1.png)
+
 ## my profile on Leetcode
 https://leetcode.com/shehab162519/
+![alt text](image-1.png)
 ## my  progress  from leetcode 
 ## week 1,2     total=60 
 |               target                    |                 done                 |
