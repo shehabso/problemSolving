@@ -31,7 +31,7 @@ https://leetcode.com/shehab162519/
 |-----------------------------------------|--------------------------------------|                
 |Binary search  15 questions              |                  2                   |                 
 |Sorting search 20  questions             |                                      |                 
-|Greedy and Bit manipulation 15 questions |                                      |  
+|Greedy and Bit manipulation 15 questions |                  8                   |  
 ## week 7,8     total=40 
 |               target                    |                 done                 |
 |-----------------------------------------|--------------------------------------|
