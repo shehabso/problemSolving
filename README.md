@@ -29,7 +29,11 @@ https://leetcode.com/shehab162519/
 ## week 5,6     total=50
 |               target                    |                 done                 |
 |-----------------------------------------|--------------------------------------|                
+<<<<<<< HEAD
 |Binary search  15 questions              |                  3                   |                 
+=======
+|Binary search  15 questions              |                  2                   |                 
+>>>>>>> f5d573566c4339621daa670e8a4c937ccbaecc1b
 |Sorting search 20  questions             |                                      |                 
 |Greedy and Bit manipulation 15 questions |                  8                   |  
 ## week 7,8     total=40 
