@@ -1,8 +1,8 @@
 # problem_solving
  ## mentorship program :
+I would like to thank Mr. Mohamed Ayman for mentoring me and enriching my skills in problem solving. 
  leetcode problems :
 https://github.com/cs-MohamedAyman/Problem-Solving-Training
-
 
 ## my profile on Leetcode
 https://leetcode.com/shehab162519/
