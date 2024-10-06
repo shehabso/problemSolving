@@ -6,6 +6,14 @@ using namespace std;
 // 8 3 9
 // -------
 // 3 0 0 1
+steps  
+convert the char to digit 
+check the lenght of the two string 
+reverse the two number 
+output_digit=sum%10;
+carry=sum/10;
+
+
 char digitToChar(int digit){
 	return digit + '0';
 }
@@ -40,7 +48,8 @@ string addNumbers(string n1, string n2){
 		result.push_back(digitToChar(output_digit));
 	}
 
-
+	// if you have to string number with different  length size 
+	
 	for(int i = n1.length(); i < n2.length(); i++){
 		int d2 = charToDigit(n2[i]);
 		int sum = d2 + carry;
