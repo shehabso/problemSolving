@@ -1,7 +1,11 @@
 #include<iostream>
 #include<algorithm>
 using namespace std;
-
+// Example 
+// 5 6
+// 8 3 9
+// -------
+// 3 0 0 1
 char digitToChar(int digit){
 	return digit + '0';
 }
