@@ -53,3 +53,18 @@ https://leetcode.com/shehab162519/
 |-----------------------------------------|--------------------------------------|
 |Dynamic programing 20 question           |                                      |                 
 |mathematics and string 30 problems       |                                      |                  -->
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shehabso/problemSolving/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shehabso/problemSolving/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shehabso/problemSolving/tree/master/0242-valid-anagram) |
+<!---LeetCode Topics End-->
