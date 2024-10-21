@@ -63,6 +63,7 @@ https://leetcode.com/shehab162519/
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/shehabso/problemSolving/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shehabso/problemSolving/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
