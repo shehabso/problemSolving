@@ -58,6 +58,7 @@ https://leetcode.com/shehab162519/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shehabso/problemSolving/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/shehabso/problemSolving/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -67,4 +68,8 @@ https://leetcode.com/shehab162519/
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shehabso/problemSolving/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shehabso/problemSolving/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
