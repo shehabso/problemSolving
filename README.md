@@ -59,20 +59,24 @@ https://leetcode.com/shehab162519/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shehabso/problemSolving/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shehabso/problemSolving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shehabso/problemSolving/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shehabso/problemSolving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shehabso/problemSolving/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shehabso/problemSolving/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shehabso/problemSolving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shehabso/problemSolving/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shehabso/problemSolving/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shehabso/problemSolving/tree/master/0049-group-anagrams) |
 | [2058-concatenation-of-array](https://github.com/shehabso/problemSolving/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
