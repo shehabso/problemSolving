@@ -72,4 +72,9 @@ https://leetcode.com/shehab162519/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shehabso/problemSolving/tree/master/0001-two-sum) |
+| [2058-concatenation-of-array](https://github.com/shehabso/problemSolving/tree/master/2058-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/shehabso/problemSolving/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
