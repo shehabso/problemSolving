@@ -64,6 +64,7 @@ https://leetcode.com/shehab162519/
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shehabso/problemSolving/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/shehabso/problemSolving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shehabso/problemSolving/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shehabso/problemSolving/tree/master/0242-valid-anagram) |
@@ -82,4 +83,8 @@ https://leetcode.com/shehab162519/
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/shehabso/problemSolving/tree/master/2058-concatenation-of-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shehabso/problemSolving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
