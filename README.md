@@ -68,6 +68,7 @@ https://leetcode.com/shehab162519/
 | [0049-group-anagrams](https://github.com/shehabso/problemSolving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shehabso/problemSolving/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shehabso/problemSolving/tree/master/0242-valid-anagram) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/shehabso/problemSolving/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -113,4 +114,8 @@ https://leetcode.com/shehab162519/
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/shehabso/problemSolving/tree/master/0948-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/shehabso/problemSolving/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
