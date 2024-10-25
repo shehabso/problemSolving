@@ -83,6 +83,7 @@ https://leetcode.com/shehab162519/
 | [0150-evaluate-reverse-polish-notation](https://github.com/shehabso/problemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0948-sort-an-array](https://github.com/shehabso/problemSolving/tree/master/0948-sort-an-array) |
 | [2058-concatenation-of-array](https://github.com/shehabso/problemSolving/tree/master/2058-concatenation-of-array) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/shehabso/problemSolving/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Simulation
 |  |
 | ------- |
