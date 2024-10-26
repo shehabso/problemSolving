@@ -55,15 +55,15 @@ https://leetcode.com/shehab162519/
 |mathematics and string 30 problems       |                                      |                  -->
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## important repo 
-    * https://github.com/hxu296/leetcode-company-wise-problems-2022?tab=readme-ov-file#netflix
-    * https://github.com/perixtar/2024-Tech-OA?tab=readme-ov-file
+|  |
+| ------- |
     * https://www.deep-ml.com/
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shehabso/problemSolving/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/shehabso/problemSolving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shehabso/problemSolving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shehabso/problemSolving/tree/master/0242-valid-anagram) |
 ## String
@@ -84,6 +84,7 @@ https://leetcode.com/shehab162519/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shehabso/problemSolving/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/shehabso/problemSolving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shehabso/problemSolving/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shehabso/problemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0948-sort-an-array](https://github.com/shehabso/problemSolving/tree/master/0948-sort-an-array) |
