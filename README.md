@@ -55,6 +55,11 @@ https://leetcode.com/shehab162519/
 |mathematics and string 30 problems       |                                      |                  -->
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+
+## important repo 
+    * https://github.com/hxu296/leetcode-company-wise-problems-2022?tab=readme-ov-file#netflix
+    * https://github.com/perixtar/2024-Tech-OA?tab=readme-ov-file
+    * https://www.deep-ml.com/
 ## Hash Table
 |  |
 | ------- |
