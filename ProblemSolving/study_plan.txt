@@ -1,0 +1,156 @@
+----------------------------
+vector 
+----------------------------
+vector 
+push back
+capacity
+insert
+ADT 
+missing 
+vector home work medium 
+----------------------------
+complexity
+1
+2
+3
+4
+----------------------------
+Singly List 
+----------------------------
+Node
+Display node 
+singly linked list 
+Traversal
+debug
+SLL
+delete
+SLL
+SLL
+SLL
+----------------------------
+Doubly List
+----------------------------
+DLL
+insert
+delete
+DLL homework
+DLL homework
+----------------------------
+sparse matrix
+----------------------------
+sparse array 
+sparse array
+----------------------------
+stack
+----------------------------
+stack 
+array based 
+homework 1 
+homework 2
+linked list
+infix postfix prefix 
+infix to postfix 1
+infix to postfix 2
+homework 3
+----------------------------
+Queue
+----------------------------
+circular Queue
+linked list based on Queue
+Queue Homework 1
+Queue Homework 2
+Queue Homework 3
+STL vector stack queue
+cancelled 
+----------------------------
+binary Trees
+----------------------------
+Trees
+Tree Node 
+Binary Tree Traversal 1
+Binary Tree Traversal 2
+Binary Tree Traversal 3
+Binary Tree Types 
+Binary Tree Formulas 
+Binary Tree Creation 
+BT homework 1
+Level traversal
+BT homework 2
+Binary Tree Generation 
+Binary Tree Serialization
+BT homework 3
+cancelled homework
+----------------------------
+Binary search trees
+----------------------------
+Trees
+Tree Node 
+Binary Tree Traversal 1
+Binary Tree Traversal 2
+Binary Tree Traversal 3
+Binary Tree Types 
+Binary Tree Formulas 
+Binary Tree Creation 
+BT homework 1
+Level traversal
+BT homework 2
+Binary Tree Generation 
+Binary Tree Serialization
+BT homework 3
+cancelled homework
+----------------------------
+Binary Heap 
+----------------------------
+Binary Heap 
+Binary tree using array 
+Binary insertion 
+Heap Deletion 
+Heap creation 
+Homework 1
+STL priority Queue
+Home work 2
+----------------------------
+AVL
+----------------------------
+Self balancing BST
+TRee Rotation 
+Imbalance Types 
+AVL insertion 
+AVL Deletion 
+Set and Map STL
+Homework 1
+----------------------------
+Tie
+----------------------------
+Latter Tree 
+Trie Implementation
+Homework 1
+Homework 2
+Homework 3
+----------------------------
+Hashing
+----------------------------
+Hash Function 
+Overflow in hash function 
+hash table 
+chaining 
+chaining implementation
+Homework 1
+probing 
+probing implementation 
+unordered set and map 
+Homework 2
+
+
+
+
+
+ 
+
+
+
+ 
+ 
+
+
+
